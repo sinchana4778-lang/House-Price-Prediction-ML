@@ -12,7 +12,7 @@
 ## 🌐 Live Demo
 
 🚀 **Try the App Here:**
-👉 http://localhost:8501/
+👉 https://house-price-prediction-ml-572y2aoqt45ddzfyd3xzgx.streamlit.app/
 
 ---
 
